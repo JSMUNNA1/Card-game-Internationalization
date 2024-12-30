@@ -1,0 +1,15 @@
+.card {
+  height: 200px;
+  width: 200px;
+  border-radius: 10%;
+  background-color: transparent;
+  margin: 10px;
+  box-shadow: 3px 3px 3px 3px gray;
+  cursor: pointer;
+
+}
+
+.imgCard {
+  height: 100%;
+  width: 100%;
+}
